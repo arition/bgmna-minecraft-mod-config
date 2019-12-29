@@ -1,0 +1,402 @@
+files:
+  AmbientSounds_v3.0.9_mc1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/ambientsounds
+    sha256sum: ec8c1797f26bee3a901999826df5b609213d42cc0f3d365be8d44aa4e13992bb
+    url: https://www.curseforge.com/minecraft/mc-mods/ambientsounds/download/2709223/file
+  AppleCore-mc1.12.2-3.2.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/applecore
+    sha256sum: be2a1797d44404c6bbddf817385d009a9adb6b9ee84c463f23430ab3e7001c98
+    url: https://www.curseforge.com/minecraft/mc-mods/applecore/download/2679415/file
+  AppleSkin-mc1.12-1.0.9.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2496585
+    sha256sum: 9bff732c18adf82c4410a827b35d43b68b979f9ede6c2108b6b97550cf386188
+    url: https://www.curseforge.com/minecraft/mc-mods/appleskin/download/2496585/file
+  Aroma1997Core-1.12.2-2.0.0.2.b165.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/aroma1997core
+    sha256sum: 02ad89fa63beb54b491cd7e3c9c34e257961dd8c2d85e20e3964a53331e1402f
+    url: https://www.curseforge.com/minecraft/mc-mods/aroma1997core/download/2690354/file
+  AromaBackup-1.12.2-3.0.0.0.b129.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/aromabackup
+    sha256sum: 81ee862565a788f30fdd1c36263aa53c1c5edb93a5b29a5975487ac01fe5041e
+    url: https://www.curseforge.com/minecraft/mc-mods/aromabackup/download/2776915/file
+  AutoRegLib-1.3-32.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/autoreglib
+    sha256sum: d8610a94da8f30815db4612b3291ecdcfd8204eaf1a4db8c5d0663c7b1191d91
+    url: https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011/file
+  Baubles-1.12-1.5.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/baubles
+    sha256sum: b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d
+    url: https://www.curseforge.com/minecraft/mc-mods/baubles/download/2518667/file
+  BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/better-builders-wands
+    sha256sum: 0bb50f545b87f19087d9dbdb9930d6be2d66ee8c76d2a1982eef9e3d2bb43108
+    url: https://www.curseforge.com/minecraft/mc-mods/better-builders-wands/download/2691084/file
+  BetterFoliage-MC1.12-2.2.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/better-foliage
+    sha256sum: c5af6d490661a641bc8878df869f5166bbe32ec9188ad3469f4558e9ae52a182
+    url: https://www.curseforge.com/minecraft/mc-mods/better-foliage/download/2631951/file
+  BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/bibliocraft
+    sha256sum: b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add
+    url: https://www.curseforge.com/minecraft/mc-mods/bibliocraft/download/2574880/file
+  BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
+    sha256sum: 33343221c7b84098b41b093db8f2a4def42cc776beb18f5e3d354a321720e286
+    url: https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/2842510/file
+  Bloodmoon-MC1.12.2-1.5.3.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/bloodmoon
+    sha256sum: 1d6082293067e1a1af002c65527a41df3919f8125eaa25a9c7c9d16ba25c4d06
+    url: https://www.curseforge.com/minecraft/mc-mods/bloodmoon/download/2537917/file
+  CEU-1.12.2-1.0.4.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/ceu
+    sha256sum: 8a47874f460ddee731d7f55bfedb573d6d8ee86de859f6d92f29de57574d050a
+    url: https://www.curseforge.com/minecraft/mc-mods/ceu/download/2810538/file
+  CTM-MC1.12.2-1.0.1.30.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/ctm
+    sha256sum: f8f078f2ebff7ffd58e623b0a7464a375409eb55d7bc9f7a50ff5244bdfe0fc7
+    url: https://www.curseforge.com/minecraft/mc-mods/ctm/download/2832564/file
+  CarryOn+MC1.12.2+v1.12.3.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/carry-on
+    sha256sum: e428c6fc8f705e7dcd4ddd690eac4d94c1ad6fc12083e40bec7dec7fc509b442
+    url: https://www.curseforge.com/minecraft/mc-mods/carry-on/download/2818975/file
+  Chisel-MC1.12.2-1.0.1.44.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/chisel
+    sha256sum: ae959cebcc3542e589e12e66400882585a75b80d193a0c2c2f57f4c1a8ef4df2
+    url: https://www.curseforge.com/minecraft/mc-mods/chisel/download/2813538/file
+  CodeChickenLib-1.12.2-3.2.3.358-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8
+    sha256sum: 5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74
+    url: https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/download/2779848/file
+  Controlling-3.0.7.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/controlling
+    sha256sum: 91d4dd56f8ca6833cc338c8766be962e2dc017f313e5485f4b1a7a1508966044
+    url: https://www.curseforge.com/minecraft/mc-mods/controlling/download/2731319/file
+  CookingForBlockheads_1.12.2-6.4.71.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads
+    sha256sum: e0b0590363f2b822f6e6d1b80f60cbbcde1268a4baab1f95158a66a023c5b99c
+    url: https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/download/2733516/file
+  CraftTweaker2-1.12-4.1.20.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/crafttweaker
+    sha256sum: f2176225db04fc95dce462e7ed45b2aac9c4c58f9887c9beba6f3a096543d389
+    url: https://www.curseforge.com/minecraft/mc-mods/crafttweaker/download/2838090/file
+  DynamicSurroundings-1.12.2-3.6.0.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings
+    sha256sum: 65308b479d7aafd71d1cb484dd3d475c5b1bdf5cb626264a0198d7ea6daf65d6
+    url: https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings/download/2825354/file
+  ExtraCells-1.12.2-2.6.4.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/extracells2
+    sha256sum: ec38cff367f50ac50dba28c05a21b11001fd54fc6e54345943480a0cba17803e
+    url: https://www.curseforge.com/minecraft/mc-mods/extracells2/download/2812054/file
+  FastLeafDecay-v14.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay
+    sha256sum: 6da4ff366330253e2fb4f6849ae0c81e4ddc9f6bd5814460ad9ecb63e9f65119
+    url: https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2463272/file
+  ForgeMultipart-1.12.2-2.6.2.83-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe
+    sha256sum: 25718bd80799a608c45299d13d86e5d67248f07a3c00657c690948b1821835ce
+    url: https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe/download/2755790/file
+  Forgelin-1.8.4.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin
+    sha256sum: ccfcad80ef73ab815875a91979128ed58c262c479c7c0e5da65b225954bee197
+    url: https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin/download/2785465/file
+  HungerOverhaul-1.12.2-1.3.3.jenkins148.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul
+    sha256sum: 994c18ef5544b02bf5e998b5b3b1db3d952ccb1024a3adc6d029347d6f8d3a1c
+    url: https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul/download/2565122/file
+  Hwyla-1.8.26-B41_1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751
+    sha256sum: e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124
+    url: https://www.curseforge.com/minecraft/mc-mods/hwyla/download/2568751/file
+  InfernalMobs-1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs
+    sha256sum: 5d91f665e36fe54129303b96a33867dd658a306ab98e0c5fa8175fc892a476a1
+    url: https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs/download/2771611/file
+  InventoryTweaks-1.64%2Bdev.146.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks
+    sha256sum: f423a47b0badc7962f0062f83c5df80cc1338b4738049843bbdb5a00a7774545
+    url: https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2670367/file
+  JustEnoughCharacters-1.12.0-3.4.5.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/just-enough-characters
+    sha256sum: 4fabfc3348a065b2ba8cede993a2f53ca40153a788604e1cc0b8ca9081b06c14
+    url: https://www.curseforge.com/minecraft/mc-mods/just-enough-characters/download/2822814/file
+  JustEnoughResources-1.12.2-0.9.2.60.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer
+    sha256sum: 9ea4d7df19c0a53880aae5e745ef1e886854bea5c533878688587a5e3fdaebdd
+    url: https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/download/2728585/file
+  MTLib-3.0.6.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/mtlib
+    sha256sum: 298fc0109614f567db4759a9709436924aa2ed20c55a8370a139f0af1ad9f109
+    url: https://www.curseforge.com/minecraft/mc-mods/mtlib/download/2684561/file
+  Morpheus-1.12.2-3.5.106.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449
+    sha256sum: 1904c32a8e0077e005bfefe005c26834c2df09881bc075a7deadce8da97fb457
+    url: https://www.curseforge.com/minecraft/mc-mods/morpheus/download/2664449/file
+  MouseTweaks-2.10-mc1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+    sha256sum: 77969c0e7f76c078ebb7004642e86746d57f47b7a46237fcb1c06d4a55679448
+    url: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/download/2671937/file
+  MrTJPCore-1.12.2-2.1.4.43-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/mrtjpcore
+    sha256sum: 82652f00e513c61c99a791abf2cbc10fdfb0e3a79e4eb02b305cccbc2d2f0087
+    url: https://www.curseforge.com/minecraft/mc-mods/mrtjpcore/download/2735197/file
+  NotEnoughItems-1.12.2-2.4.3.245-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8
+    sha256sum: 09dbcfbc6136e1d691c3cc79e1f70e9e3aa0864a5b364a34e2a66c84101885e2
+    url: https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8/download/2755792/file
+  NuclearCraft-2.18l-1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/files/2838824
+    sha256sum: 27460dd87d7b52de393b674e495bd2c63580488b226c0622086d9991bf71edbd
+    url: https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/2838824/file
+  OreLib-1.12.2-3.6.0.1.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/orelib
+    sha256sum: 4483d8cc2b0334b82b7d0f5bb6354a2020a0e00ce63a48379e8ba5eb7d79eef9
+    url: https://www.curseforge.com/minecraft/mc-mods/orelib/download/2820815/file
+  Pam%27s+HarvestCraft+1.12.2zf.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft
+    sha256sum: 708229d38768c2b7f4b94c3e687a85b00cba8091911f64613d95106d891badc7
+    url: https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft/download/2771840/file
+  Patchouli-1.0-20.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/patchouli
+    sha256sum: 1f2664d0e81444e88398f24eafa54c07d64ee491a24c04f89752cb069cd234ae
+    url: https://www.curseforge.com/minecraft/mc-mods/patchouli/download/2731963/file
+  PrettyBeaches_1.12.2-1.0.4.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/pretty-beaches
+    sha256sum: 41141a302579f238293064fe83a8ac125150aaaee9c1464b0784bd6c0c49d37e
+    url: https://www.curseforge.com/minecraft/mc-mods/pretty-beaches/download/2620514/file
+  ProjectRed-1.12.2-4.9.4.120-Base.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-base
+    sha256sum: 8345e86d84cc38e8017fef9b20b1160b4a988637e14b8bcb5b817747d8e63570
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-base/download/2745545/file
+  ProjectRed-1.12.2-4.9.4.120-compat.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-compat
+    sha256sum: 02c2f75cc0c6630195072bd2cd5878fb60cc0b6780d4fd6a3b0f7b1f3f8ea394
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-compat/download/2745546/file
+  ProjectRed-1.12.2-4.9.4.120-fabrication.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication
+    sha256sum: 6f74f0cc3223636bae0c2a6f61dabdf377df2e4bd73db62f12e9c2356492ae9c
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication/download/2745547/file
+  ProjectRed-1.12.2-4.9.4.120-integration.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-integration
+    sha256sum: 659623f496dd457dd689c69dbd7a593453f65f78662a4af8dc624bfff33ee2eb
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-integration/download/2745548/file
+  ProjectRed-1.12.2-4.9.4.120-lighting.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-lighting
+    sha256sum: 65d3a196ff8ca2a1caf119e28ebfb37d0157730d97c9acc0c7e2601f5edbe244
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-lighting/download/2745549/file
+  ProjectRed-1.12.2-4.9.4.120-mechanical.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical
+    sha256sum: 3e2f19faf3f9f19d5835a7e368d2bf855ca3d1ee82575a48182b3746d214cad8
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical/download/2745550/file
+  ProjectRed-1.12.2-4.9.4.120-world.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/project-red-world
+    sha256sum: 6b763b939c4a8517ac7fbb2a3cc7267d67e25823b60cf4231443eca3bb681c2e
+    url: https://www.curseforge.com/minecraft/mc-mods/project-red-world/download/2745551/file
+  Quark-r1.6-177.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/quark
+    sha256sum: 59a2ee73a168d8494dae20d9dcef8f5d9592f695bf93ab16d1d28ec984fb7429
+    url: https://www.curseforge.com/minecraft/mc-mods/quark/download/2759240/file
+  RTG-1.12.2-6.1.0.0-snapshot.1.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation
+    sha256sum: 354317bea5c6b97d1dfe17f9431005fd741f853425fa57c8bedd801947f70f52
+    url: https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation/download/2782568/file
+  SereneSeasons-1.12.2-1.2.18-universal.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/serene-seasons
+    sha256sum: f52033660557331cc4847337325fdab05b07df0ceaa851382cf46137286e243a
+    url: https://www.curseforge.com/minecraft/mc-mods/serene-seasons/download/2799213/file
+  ShadowMC-1.12-3.8.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/shadowmc
+    sha256sum: 7bd5920c9bd6846de468ea10693a83a436813f83b2ab340f665c21904840cc93
+    url: https://www.curseforge.com/minecraft/mc-mods/shadowmc/download/2441500/file
+  SmoothFont-mc1.12.2-2.1.1.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/smooth-font
+    sha256sum: 3e8dddedd871af92f1695a01fde20754d83e58252c319d9ca6ba5cae47062384
+    url: https://www.curseforge.com/minecraft/mc-mods/smooth-font/download/2775709/file
+  SpawnerControl-1.6.3b.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/mob-spawner-control
+    sha256sum: 0a5cf401bf58bf4163c08aeb79237e75d7d97e6fe1f4afc6fc2618f9fa8fe763
+    url: https://www.curseforge.com/minecraft/mc-mods/mob-spawner-control/download/2725062/file
+  SpiceOfLife-mc1.12-1.3.12.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life
+    sha256sum: 4c4453218b60f03094e7b34b100ff0314f8fe6c2d517c0d1bf3136e8da64b973
+    url: https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life/download/2571951/file
+  ToolBelt-1.12.2-1.9.12.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/tool-belt
+    sha256sum: 590772afa32282299248d38c230ccddce3a3fe2cfa9969cbac98f98ca55ac49a
+    url: https://www.curseforge.com/minecraft/mc-mods/tool-belt/download/2811669/file
+  Wawla-1.12.2-2.5.273.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at
+    sha256sum: 351e9d8a6742055d1260636da47a1e93d2c29837ea65869ede891988aba47ff5
+    url: https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at/download/2707185/file
+  WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-2
+    sha256sum: 8ae5a50672be221d84a56c321577ce683b8dc2f47cbe6e3a1a18b56eff179c3b
+    url: https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-2/download/2629418/file
+  WrapUp-1.12-1.1.3.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/wrapup
+    sha256sum: 133c55730e48e1652c861898d05c6092b4f58badf9e627f12019000426e7df95
+    url: https://www.curseforge.com/minecraft/mc-mods/wrapup/download/2486198/file
+  appliedenergistics2-rv6-stable-7.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
+    sha256sum: e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a
+    url: https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/download/2747063/file
+  binnie-mods-1.12.2-2.5.1.198.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/binnies-mods
+    sha256sum: 0eaf988c47311b1ec37ab03ca376f9cd976df139dbdcb4a5e04d4b6cca4b875d
+    url: https://www.curseforge.com/minecraft/mc-mods/binnies-mods/download/2833194/file
+  chiselsandbits-14.33.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/chisels-bits
+    sha256sum: 0b086aced1beca90ed5bb25fe6951a4d191d9b49f221af1074d1f9ff4f364b74
+    url: https://www.curseforge.com/minecraft/mc-mods/chisels-bits/download/2720655/file
+  comforts-1.12.2-1.4.1.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/comforts
+    sha256sum: dbe3b83447c1e405a60d2192c9bc2d8e4acd7d9cb572c24de93b260d49d09fa5
+    url: https://www.curseforge.com/minecraft/mc-mods/comforts/download/2705810/file
+  findme-1.12.2-1.1.0-8.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/findme
+    sha256sum: ac70fb3c98f3194f1ff50cf5fba193f04cb10df693a43057cc93a44802058d4f
+    url: https://www.curseforge.com/minecraft/mc-mods/findme/download/2682853/file
+  foamfix-0.10.10-1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod
+    sha256sum: 9429d2680f38bc1e3e2c87c98e95d4896241f5ee0f2e627d15610c68c473a2e8
+    url: https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod/download/2845668/file
+  forestry_1.12.2-5.8.2.409.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/forestry
+    sha256sum: 2ee022c554307ec1b5b1c7576efb7137026241473e92588fd1dea429146073d9
+    url: https://www.curseforge.com/minecraft/mc-mods/forestry/download/2824425/file
+  furniture-6.3.1-1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
+    sha256sum: 1a35017a806ff1ae1ae35b377aca2919d41e80e1221fd5b8c3f9b7017eb3d760
+    url: https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/download/2749993/file
+  gregtech-1.12.2-1.8.13.465.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/gregtechce
+    sha256sum: 43e73738decbb27d406dfb99d6f1eee4161d98ab8688c76665359adcbc58a7ef
+    url: https://www.curseforge.com/minecraft/mc-mods/gregtechce/download/2811836/file
+  jei_1.12.2-4.15.0.293.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/jei
+    sha256sum: 5a11997a4f2e04c76ca63ff2bad555eb777b5ee26a144e79f04a8e67c286434e
+    url: https://www.curseforge.com/minecraft/mc-mods/jei/download/2847112/file
+  jeibees-0.9.0.5-mc1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/jei-bees
+    sha256sum: 07c6c95eddf0f6f3d15339f373da51a638716c3cbe69f93da5586f7957e3c22a
+    url: https://www.curseforge.com/minecraft/mc-mods/jei-bees/download/2490058/file
+  jeiintegration_1.12.2-1.5.1.36.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/jei-integration
+    sha256sum: 6d5b71ec4a89f86c0265f0057dccb95167a86badd74e68a784e80c99d16b6463
+    url: https://www.curseforge.com/minecraft/mc-mods/jei-integration/download/2491927/file
+  leveluphp-1.12.2-1.4.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/level-up-hp
+    sha256sum: 9ce65ad96e9cbef7c8c49f16aa4688a7857169994f5ecb7829a7534a247d1db7
+    url: https://www.curseforge.com/minecraft/mc-mods/level-up-hp/download/2639275/file
+  modtweaker-4.0.17.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/modtweaker
+    sha256sum: d13d8dd6318eedffc046f0633371f72b93c4f4e5a92f9147b706ada7e27f2f6d
+    url: https://www.curseforge.com/minecraft/mc-mods/modtweaker/download/2693544/file
+  noctrl-1.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/noctrl
+    sha256sum: fedc83663e16599aef237b40c25c3b2d8253087fc2cd64db20b5da78234fe6fd
+    url: https://www.curseforge.com/minecraft/mc-mods/noctrl/download/2614687/file
+  platforms-1.12.0-1.4.6.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/platforms
+    sha256sum: d450927b4bb42d5a79c00d42391b7ac5cf3b591fdeea121a551bf63df40754ec
+    url: https://www.curseforge.com/minecraft/mc-mods/platforms/download/2616061/file
+  railcraft-12.0.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/railcraft
+    sha256sum: 5db83f6a177ac2b143dcb50d0a35c2c0873b7cac6e1d8b58ee577494d5937ed2
+    url: https://www.curseforge.com/minecraft/mc-mods/railcraft/download/2687757/file
+  reauth-3.6.0.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/reauth
+    sha256sum: 2264ebdb4d29fe4105d8940f1fd14720ada023d059879c41374b44cbb3b7ac7b
+    url: https://www.curseforge.com/minecraft/mc-mods/reauth/download/2560638/file
+  shetiphiancore-1.12.0-3.5.9.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore
+    sha256sum: dc033f623cfc6d7afdaaecf5ef31dda865744f7da2fe85443ae69f204bf50d74
+    url: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore/download/2661618/file
+  tombstone-3.6.2-1.12.2.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/files/2818908
+    sha256sum: f5148f8f55e6a99cf4846ce8cfad80e491d42bc57871394062e355df9bc7460e
+    url: https://www.curseforge.com/minecraft/mc-mods/corail-tombstone/download/2818908/file
+  worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar:
+    mod_url: https://www.curseforge.com/minecraft/mc-mods/worldedit
+    sha256sum: f7103d2dfb8d8f63e9dff1525359f2b8c6da9cd9e70688037668982b130b704d
+    url: https://www.curseforge.com/minecraft/mc-mods/worldedit/download/2655056/file
+mods:
+  https://www.curseforge.com/minecraft/mc-mods/ambientsounds: AmbientSounds_v3.0.9_mc1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/applecore: AppleCore-mc1.12.2-3.2.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/appleskin/files/2496585: AppleSkin-mc1.12-1.0.9.jar
+  https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2: appliedenergistics2-rv6-stable-7.jar
+  https://www.curseforge.com/minecraft/mc-mods/aroma1997core: Aroma1997Core-1.12.2-2.0.0.2.b165.jar
+  https://www.curseforge.com/minecraft/mc-mods/aromabackup: AromaBackup-1.12.2-3.0.0.0.b129.jar
+  https://www.curseforge.com/minecraft/mc-mods/atomicstrykers-infernal-mobs: InfernalMobs-1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/autoreglib: AutoRegLib-1.3-32.jar
+  https://www.curseforge.com/minecraft/mc-mods/baubles: Baubles-1.12-1.5.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/better-builders-wands: BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar
+  https://www.curseforge.com/minecraft/mc-mods/better-foliage: BetterFoliage-MC1.12-2.2.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/bibliocraft: BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar
+  https://www.curseforge.com/minecraft/mc-mods/binnies-mods: binnie-mods-1.12.2-2.5.1.198.jar
+  https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty: BiomesOPlenty-1.12.2-7.0.1.2444-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/bloodmoon: Bloodmoon-MC1.12.2-1.5.3.jar
+  https://www.curseforge.com/minecraft/mc-mods/carry-on: CarryOn+MC1.12.2+v1.12.3.jar
+  https://www.curseforge.com/minecraft/mc-mods/ceu: CEU-1.12.2-1.0.4.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/chisel: Chisel-MC1.12.2-1.0.1.44.jar
+  https://www.curseforge.com/minecraft/mc-mods/chisels-bits: chiselsandbits-14.33.jar
+  https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/comforts: comforts-1.12.2-1.4.1.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/controlling: Controlling-3.0.7.jar
+  https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads: CookingForBlockheads_1.12.2-6.4.71.jar
+  https://www.curseforge.com/minecraft/mc-mods/corail-tombstone: tombstone-3.6.2-1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/crafttweaker: CraftTweaker2-1.12-4.1.20.jar
+  https://www.curseforge.com/minecraft/mc-mods/ctm: CTM-MC1.12.2-1.0.1.30.jar
+  https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings: DynamicSurroundings-1.12.2-3.6.0.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/extracells2: ExtraCells-1.12.2-2.6.4.jar
+  https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay: FastLeafDecay-v14.jar
+  https://www.curseforge.com/minecraft/mc-mods/findme: findme-1.12.2-1.1.0-8.jar
+  https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod: foamfix-0.10.10-1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/forestry: forestry_1.12.2-5.8.2.409.jar
+  https://www.curseforge.com/minecraft/mc-mods/forge-multipart-cbe: ForgeMultipart-1.12.2-2.6.2.83-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/gregtechce: gregtech-1.12.2-1.8.13.465.jar
+  https://www.curseforge.com/minecraft/mc-mods/hunger-overhaul: HungerOverhaul-1.12.2-1.3.3.jenkins148.jar
+  https://www.curseforge.com/minecraft/mc-mods/hwyla/files/2568751: Hwyla-1.8.26-B41_1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks: InventoryTweaks-1.64%2Bdev.146.jar
+  https://www.curseforge.com/minecraft/mc-mods/jei: jei_1.12.2-4.15.0.293.jar
+  https://www.curseforge.com/minecraft/mc-mods/jei-bees: jeibees-0.9.0.5-mc1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/jei-integration: jeiintegration_1.12.2-1.5.1.36.jar
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-characters: JustEnoughCharacters-1.12.0-3.4.5.jar
+  https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer: JustEnoughResources-1.12.2-0.9.2.60.jar
+  https://www.curseforge.com/minecraft/mc-mods/level-up-hp: leveluphp-1.12.2-1.4.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/mob-spawner-control: SpawnerControl-1.6.3b.jar
+  https://www.curseforge.com/minecraft/mc-mods/modtweaker: modtweaker-4.0.17.jar
+  https://www.curseforge.com/minecraft/mc-mods/morpheus/files/2664449: Morpheus-1.12.2-3.5.106.jar
+  https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks: MouseTweaks-2.10-mc1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod: furniture-6.3.1-1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/mrtjpcore: MrTJPCore-1.12.2-2.1.4.43-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/mtlib: MTLib-3.0.6.jar
+  https://www.curseforge.com/minecraft/mc-mods/noctrl: noctrl-1.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/not-enough-items-1-8: NotEnoughItems-1.12.2-2.4.3.245-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod: NuclearCraft-2.18l-1.12.2.jar
+  https://www.curseforge.com/minecraft/mc-mods/orelib: OreLib-1.12.2-3.6.0.1.jar
+  https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft: Pam%27s+HarvestCraft+1.12.2zf.jar
+  https://www.curseforge.com/minecraft/mc-mods/patchouli: Patchouli-1.0-20.jar
+  https://www.curseforge.com/minecraft/mc-mods/platforms: platforms-1.12.0-1.4.6.jar
+  https://www.curseforge.com/minecraft/mc-mods/pretty-beaches: PrettyBeaches_1.12.2-1.0.4.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-base: ProjectRed-1.12.2-4.9.4.120-Base.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-compat: ProjectRed-1.12.2-4.9.4.120-compat.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-fabrication: ProjectRed-1.12.2-4.9.4.120-fabrication.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-integration: ProjectRed-1.12.2-4.9.4.120-integration.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-lighting: ProjectRed-1.12.2-4.9.4.120-lighting.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-mechanical: ProjectRed-1.12.2-4.9.4.120-mechanical.jar
+  https://www.curseforge.com/minecraft/mc-mods/project-red-world: ProjectRed-1.12.2-4.9.4.120-world.jar
+  https://www.curseforge.com/minecraft/mc-mods/quark: Quark-r1.6-177.jar
+  https://www.curseforge.com/minecraft/mc-mods/railcraft: railcraft-12.0.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/realistic-terrain-generation: RTG-1.12.2-6.1.0.0-snapshot.1.jar
+  https://www.curseforge.com/minecraft/mc-mods/reauth: reauth-3.6.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/serene-seasons: SereneSeasons-1.12.2-1.2.18-universal.jar
+  https://www.curseforge.com/minecraft/mc-mods/shadowfacts-forgelin: Forgelin-1.8.4.jar
+  https://www.curseforge.com/minecraft/mc-mods/shadowmc: ShadowMC-1.12-3.8.0.jar
+  https://www.curseforge.com/minecraft/mc-mods/shetiphiancore: shetiphiancore-1.12.0-3.5.9.jar
+  https://www.curseforge.com/minecraft/mc-mods/smooth-font: SmoothFont-mc1.12.2-2.1.1.jar
+  https://www.curseforge.com/minecraft/mc-mods/the-spice-of-life: SpiceOfLife-mc1.12-1.3.12.jar
+  https://www.curseforge.com/minecraft/mc-mods/tool-belt: ToolBelt-1.12.2-1.9.12.jar
+  https://www.curseforge.com/minecraft/mc-mods/wawla-what-are-we-looking-at: Wawla-1.12.2-2.5.273.jar
+  https://www.curseforge.com/minecraft/mc-mods/worldedit: worldedit-forge-mc1.12.2-6.1.10-SNAPSHOT-dist.jar
+  https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-2: WorldEdit+CUI+Forge+Edition+2-2.2.0-mf-1.12.2-14.23.5.2768.jar
+  https://www.curseforge.com/minecraft/mc-mods/wrapup: WrapUp-1.12-1.1.3.jar
