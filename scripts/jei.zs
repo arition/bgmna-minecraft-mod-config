@@ -72,3 +72,8 @@ mods.jei.JEI.removeAndHide(<nuclearcraft:dissolver_idle>);
 mods.jei.JEI.removeAndHide(<nuclearcraft:extractor_idle>);
 mods.jei.JEI.removeAndHide(<nuclearcraft:centrifuge_idle>);
 mods.jei.JEI.removeAndHide(<nuclearcraft:rock_crusher_idle>);
+
+mods.jei.JEI.removeAndHide(<railcraft:boiler_firebox_fluid>);
+mods.jei.JEI.removeAndHide(<railcraft:boiler_firebox_solid>);
+mods.jei.JEI.removeAndHide(<railcraft:boiler_tank_pressure_high>);
+mods.jei.JEI.removeAndHide(<railcraft:boiler_tank_pressure_low>);
